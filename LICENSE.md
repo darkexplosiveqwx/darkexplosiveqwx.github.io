@@ -2,10 +2,6 @@
 permalink: /license
 ---
 
----
-permalink: /license.html
----
-
 MIT License
 
 Copyright (c) 2022 darkexplosiveqwx
